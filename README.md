@@ -1,0 +1,2 @@
+# hashFunction
+SHA-1 
